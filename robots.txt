@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://omperyme.github.io/sitemap.txt
